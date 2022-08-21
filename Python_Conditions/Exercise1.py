@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 17 01:56:49 2022
+Created on Mon Aug 22 00:51:18 2022
 
 @author: Talha Khokhar
 """
@@ -10,7 +10,6 @@ a = 33
 b = 200
 if b > a:
     print("b is greater than a")
-
 #If statement, without indentation (will raise an error):
 a = 33
 b = 200
